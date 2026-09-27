@@ -115,7 +115,7 @@ Documenting our builder journey in spatial intelligence, robotics, agent-driven 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐻 UrKuma (우르쿠마): Hanja Learning Quiz App</h3>
+      <h3>🐻 UrKuma (유어쿠마): Hanja Learning Quiz App</h3>
       <p><b>Android Mobile App • Google Play</b></p>
       <a href="https://youtu.be/WYOJY8WIwBY" target="_blank">
         <img src="https://img.youtube.com/vi/WYOJY8WIwBY/maxresdefault.jpg" width="100%" alt="UrKuma Hanja App Demo" style="border-radius: 8px;" />
