@@ -13,7 +13,7 @@ A research showcase, engineering diary, and portfolio platform exploring **Physi
 [![Website](https://img.shields.io/badge/Website-mincasurong.com-d4af37?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mincasurong.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Minsu_Chang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mincasurong/)
 [![GitHub](https://img.shields.io/badge/GitHub-mincasurong-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mincasurong)
-[![Email](https://img.shields.io/badge/Contact-produsoup%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produsoup@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-golddcal11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produsoup@gmail.com)
 
 <br/>
 
