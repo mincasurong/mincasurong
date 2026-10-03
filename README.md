@@ -6,18 +6,18 @@
 
 $$\text{M9G} = \text{Human} \times \text{AI Agents}$$
 
-A research showcase, engineering diary, and portfolio platform exploring **Physical AI**, **embodied robotics**, and **agentic software engineering**.
+A research showcase, engineering diary, and live application platform exploring **Physical AI**, **embodied robotics**, and **agentic software engineering**.
 
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-mincasurong.com-d4af37?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mincasurong.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Minsu_Chang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mincasurong/)
 [![GitHub](https://img.shields.io/badge/GitHub-mincasurong-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mincasurong)
-[![Email](https://img.shields.io/badge/Contact-golddcal11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produsoup@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-produsoup%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produsoup@gmail.com)
 
 <br/>
 
-[🏆 Highlights & Awards](#-recent-news--highlights) • [🎬 Gemini Diaries](#-build-with-gemini-diaries) • [🚀 Deployed Apps](#-deployed-apps--mobile) • [📚 Publications](#-publications--research-archive) • [👥 Who We Are](#-who-we-are)
+[🏆 Highlights & Awards](#-recent-news--highlights) • [📱 Live Deployed Apps](#-live-deployed-apps--tools-100-free-access) • [🎬 Gemini Diaries](#-build-with-gemini-diaries) • [📚 Publications](#-publications--research-archive) • [🛠️ Tech Stack](#-core-tech-stack--frameworks) • [👥 Who We Are](#-who-we-are)
 
 </div>
 
@@ -35,19 +35,106 @@ A research showcase, engineering diary, and portfolio platform exploring **Physi
   <a href="https://youtu.be/hzUlLTtfd7M?si=LCs8NFTN9zpZ4bCm" target="_blank">
     <img src="https://img.youtube.com/vi/hzUlLTtfd7M/maxresdefault.jpg" width="85%" alt="Google Gemini 3 Seoul Hackathon 1st Place - GeminiSpace Demo Video" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
   </a>
-  <p><i>▶️ Click to watch: GeminiSpace Demo Video (Google Gemini 3 Seoul Hackathon)</i></p>
+  <p><i>▶️ Click to watch: GeminiSpace Demo Video (Google Gemini 3 Seoul Hackathon 1st Place)</i></p>
 </div>
 
 **About GeminiSpace**:
-We developed **GeminiSpace**, a Vision-Language-Action (VLA) navigation system that turns standard single-view room photos into an **interactive indoor semantic map**. Simply capture your space and query it naturally, acting as a smart GPS for any indoor environment. Sub-second Gemini 3.7 Flash spatial reasoning, 360° Visual SLAM loop closure, and photorealistic 2D orthographic rendering.
+We developed **GeminiSpace**, a Vision-Language-Action (VLA) navigation system that turns standard 360° indoor room photos into an **interactive indoor semantic map**. Simply capture your space and query it naturally, acting as a smart GPS for any indoor environment. Sub-second Gemini spatial reasoning, 360° Visual SLAM loop closure, and photorealistic 2D orthographic rendering.
 
 <div align="center">
 
+[![Live Web App](https://img.shields.io/badge/Live_App-geminispace.mincasurong.com-00C853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://geminispace.mincasurong.com/)
 [![Google Blog](https://img.shields.io/badge/Google_Blog-Read_Story-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://blog.google/intl/ko-kr/company-news/inside-google/gemini-seoul-hackathon-first/)
 [![Winners Gallery](https://img.shields.io/badge/Cerebral_Valley-Winners_Gallery-FF6B6B?style=for-the-badge&logo=star&logoColor=white)](https://cerebralvalley.ai/e/gemini-3-seoul-hackathon/hackathon/gallery?project=27)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-GeminiSeoulHackathon2026-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mincasurong/GeminiSeoulHackathon2026)
 
 </div>
+
+---
+
+## 📱 Live Deployed Apps & Tools (100% Free Access)
+
+Production applications deployed and maintained on **Google Cloud Run** and **Google Play**:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://geminispace.mincasurong.com/" target="_blank">
+        <img src="https://img.youtube.com/vi/hzUlLTtfd7M/maxresdefault.jpg" width="100%" alt="GeminiSpace Spatial AI" style="border-radius: 8px;" />
+      </a>
+      <h3>🌐 <a href="https://geminispace.mincasurong.com/">GeminiSpace: Indoor Spatial AI</a></h3>
+      <p><b>Web Application • Google Cloud Run • 1st Place Winner</b></p>
+      <p>Transforms 360° multi-view room photos into an interactive indoor spatial map with sub-second Gemini spatial reasoning and Visual SLAM loop closure.</p>
+      <br/>
+      <a href="https://geminispace.mincasurong.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Web_App-Launch_GeminiSpace-00C853?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Launch GeminiSpace" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://opic.mincasurong.com/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/18ba78a7-32ea-4690-8ea4-971d860b58f8" width="100%" alt="OPIc AI Master Coach" style="border-radius: 8px;" />
+      </a>
+      <h3>🎙️ <a href="https://opic.mincasurong.com/">OPIc AI Master Coach</a></h3>
+      <p><b>Web Application • Google Cloud Run • Gemini & Speech AI</b></p>
+      <p>Real-time conversational AI voice sparring trainer for test takers targeting Advanced Low (AL). Features native roleplay sparring, instant fluency scoring, and pronunciation feedback.</p>
+      <br/>
+      <a href="https://opic.mincasurong.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Web_App-Launch_OPIc_Coach-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Launch OPIc Coach" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://jplt.mincasurong.com/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/76a5cd9d-ef41-4728-a6f0-5e3fa4d480d0" width="100%" alt="JLPT N4 Mock Exam & Drill Master" style="border-radius: 8px;" />
+      </a>
+      <h3>🇯🇵 <a href="https://jplt.mincasurong.com/">JLPT N4 Mock Exam & Drill Master</a></h3>
+      <p><b>Web Application • Google Cloud Run • Gemini 1:1 Tutor</b></p>
+      <p>Full-section Japanese proficiency exam drill simulator. Gemini AI analyzes individual weak spots across vocabulary, grammar, and reading in real time with focused drill exercises.</p>
+      <br/>
+      <a href="https://jplt.mincasurong.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Web_App-Launch_JLPT_Drill-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Launch JLPT Drill" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://patent.mincasurong.com/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/1907981a-03fd-43e6-a515-b81bf7da22a8" width="100%" alt="KIPRIS Patent Intelligence Dual Hub" style="border-radius: 8px;" />
+      </a>
+      <h3>🔎 <a href="https://patent.mincasurong.com/">KIPRIS Patent Intelligence Dual Hub</a></h3>
+      <p><b>Web Application • Google Cloud Run • Enterprise IP RAG</b></p>
+      <p>Dual-engine patent intelligence platform integrating Korean KIPRIS API, rule-based claim verification, and interactive React Flow citation knowledge graphs.</p>
+      <br/>
+      <a href="https://patent.mincasurong.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Web_App-Launch_Patent_Hub-FBBC05?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Launch Patent Hub" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.studio.kumakanji&hl" target="_blank">
+        <img src="https://img.youtube.com/vi/WYOJY8WIwBY/maxresdefault.jpg" width="100%" alt="UrKuma Hanja App Demo" style="border-radius: 8px;" />
+      </a>
+      <h3>🐻 <a href="https://play.google.com/store/apps/details?id=com.studio.kumakanji&hl">UrKuma (유어쿠마): Hanja Learning Quiz</a></h3>
+      <p><b>Android Mobile App • Google Play Store</b></p>
+      <p>An interactive quiz app featuring UrKuma the bear guide to master Hanja (Chinese characters) and Japanese vocabulary in 3 minutes a day.</p>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.studio.kumakanji&hl" target="_blank">
+        <img src="https://img.shields.io/badge/Google_Play-Get_UrKuma_on_Android-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download UrKuma on Google Play" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center" style="padding: 36px 16px;">
+        <br/>
+        <h3>🌐 Explore More Tools</h3>
+        <p>All projects and live web applications are continuously updated and documented in public.</p>
+        <br/>
+        <a href="https://www.mincasurong.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-mincasurong.com-d4af37?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit mincasurong.com" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -87,7 +174,7 @@ Documenting our builder journey in spatial intelligence, robotics, agent-driven 
         <img src="https://img.youtube.com/vi/mWDwqBfzZ6s/maxresdefault.jpg" width="100%" alt="EP 0. GeminiSpace v2.0" style="border-radius: 8px;" />
       </a>
       <h4><a href="https://www.youtube.com/watch?v=mWDwqBfzZ6s">EP 0. GeminiSpace v2.0: Eliminating AI Map Hallucinations</a></h4>
-      <p>Sub-second Gemini 3.7 Flash spatial reasoning, 360° Visual SLAM loop closure, and photorealistic 2D orthographic rendering.</p>
+      <p>Sub-second Gemini spatial reasoning, 360° Visual SLAM loop closure, and photorealistic 2D orthographic rendering.</p>
     </td>
   </tr>
   <tr>
@@ -110,41 +197,11 @@ Documenting our builder journey in spatial intelligence, robotics, agent-driven 
 
 ---
 
-## 🚀 Deployed Apps & Mobile
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐻 UrKuma (유어쿠마): Hanja Learning Quiz App</h3>
-      <p><b>Android Mobile App • Google Play</b></p>
-      <a href="https://youtu.be/WYOJY8WIwBY" target="_blank">
-        <img src="https://img.youtube.com/vi/WYOJY8WIwBY/maxresdefault.jpg" width="100%" alt="UrKuma Hanja App Demo" style="border-radius: 8px;" />
-      </a>
-      <p>A fun quiz app featuring UrKuma, a cute bear guide, designed to help learn Hanja (Chinese characters) through interactive quizzes.</p>
-      <br/>
-      <a href="https://play.google.com/store/apps/details?id=com.studio.kumakanji&hl" target="_blank">
-        <img src="https://img.shields.io/badge/Google_Play-Get_UrKuma_on_Android-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download UrKuma on Google Play" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗣️ English Speaking Practice for Koreans</h3>
-      <p><b>Web Application • Google Cloud Run</b></p>
-      <p>Interactive AI-powered speaking practice simulator for test takers (OPIc / Speaking exams). Features real-time roleplay scenarios, background survey practice, and instant fluency evaluation built on Gemini and Antigravity agents.</p>
-      <br/><br/>
-      <a href="https://opic-app-551236665243.asia-northeast1.run.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Cloud_Run-Launch_Speaking_App-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Launch Speaking Practice App" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📚 Publications & Research Archive
 
 ### 📄 Peer-Reviewed Scientific Publications
 
-| Year | Venue | Paper Title | IEEE Xplore / Link |
+| Year | Venue | Paper Title | IEEE Xplore / MDPI Link |
 | :---: | :---: | :--- | :---: |
 | **2025** | **IEEE ICRA** | **OPPA**: Online Planner's Parameter Adaptation for Enhanced Mobile Robot Navigation | [DOI: 11128768](https://ieeexplore.ieee.org/document/11128768) |
 | **2020** | **IEEE TNSRE** | **AI Therapist** realizing Expert Verbal Cues for Effective Robot-Assisted Gait Training | [DOI: 9260225](https://ieeexplore.ieee.org/document/9260225) |
@@ -230,8 +287,8 @@ Documenting our builder journey in spatial intelligence, robotics, agent-driven 
 | :--- | :--- |
 | **Robotics & Simulation** | `NVIDIA Isaac Sim` `ROS 2` `MoveIt 2` `MuJoCo` `robomimic` `Franka Emika FR3` `Jetson Nano` |
 | **AI & Spatial Intelligence** | `Google Gemini 3.8 / 3.7 Flash` `Gemini Robotics-ER 2` `Visual SLAM` `VLA Models` `PyTorch` |
-| **Full-Stack & Digital Twins** | `React 19` `TypeScript` `React Flow` `Vite 6` `Tailwind CSS v4` `Express` `Motion` |
-| **Cloud & DevOps** | `Google Cloud Run` `Google AI Studio` `Antigravity 2.0` `Docker` `GitHub Actions` |
+| **Full-Stack & Digital Twins** | `React 19` `TypeScript 5.8` `React Flow` `Vite 6` `Tailwind CSS v4` `Express` `Motion` |
+| **Cloud & Agentic DevOps** | `Google Cloud Run` `Google AI Studio` `Antigravity 2.0` `Docker` `GitHub Actions` `Firebase` |
 
 </div>
 
