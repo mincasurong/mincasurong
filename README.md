@@ -1,23 +1,26 @@
 <div align="center">
 
-# Hi, We're <span style="color:#d4af37;">M9G</span> 👋
+# Hi, We're <span style="color:#4285F4;">M</span><span style="color:#EA4335;">9</span><span style="color:#34A853;">G</span> 👋
 
 ### *From Machine to General Intelligence by Agent-enabled System Engineering*
 
-$$\text{M9G} = \text{Human} \times \text{AI Agents}$$
-
-A research showcase, engineering diary, and live application platform exploring **Physical AI**, **embodied robotics**, and **agentic software engineering**.
+**Minsu (Max) Chang, Ph.D.** • Robotics Research Engineer at **Samsung Electronics (SAIT)**  
+*Spatial Intelligence, Physical AI, Multi-Robot Task & Motion Planning (TAMP), and Rehabilitation Robotics*
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-mincasurong.com-d4af37?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mincasurong.com/)
+[![Main Portal](https://img.shields.io/badge/Main_Portal-mincasurong.github.io-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mincasurong.github.io/)
+[![CV / vCard](https://img.shields.io/badge/Ph.D._CV-mincasurong.github.io%2Fvcard-fbbf24?style=for-the-badge&logo=googlescholar&logoColor=black)](https://mincasurong.github.io/vcard/)
+[![Research Blog](https://img.shields.io/badge/Research_Blog-mincasurong.github.io%2Fblog-1a73e8?style=for-the-badge&logo=rss&logoColor=white)](https://mincasurong.github.io/blog/)
+[![Research Archive](https://img.shields.io/badge/10--Yr_Archive-21_Papers_%7C_14%2B_Patents-34A853?style=for-the-badge&logo=academia&logoColor=white)](https://mincasurong.github.io/archive/)
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=b0gKbzdNH68C&view_op=list_works&sortby=pubdate)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Minsu_Chang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mincasurong/)
 [![GitHub](https://img.shields.io/badge/GitHub-mincasurong-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mincasurong)
-[![Email](https://img.shields.io/badge/Contact-produsoup%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produsoup@gmail.com)
 
 <br/>
 
-[🏆 Highlights & Awards](#-recent-news--highlights) • [📱 Live Deployed Apps](#-live-deployed-apps--tools-100-free-access) • [🎬 Gemini Diaries](#-build-with-gemini-diaries) • [📚 Publications](#-publications--research-archive) • [🛠️ Tech Stack](#-core-tech-stack--frameworks) • [👥 Who We Are](#-who-we-are)
+[🏆 Recent News](#-recent-news--highlights) • [📝 Technical Research Blog](#-featured-technical-research-blogs-with-40s-video--tldr) • [🤖 Gemini × Robotic Arms](#-gemini--robotic-arm-series-isaac-sim-60--ros-2-jazzy) • [📚 Publications (21 Papers & 14+ Patents)](#-publications--research-archive) • [📱 Free Live Apps](#-live-deployed-apps--tools-100-free-access) • [🎓 Tutorials ↗](https://mincasurong.github.io/tutorials/)
 
 </div>
 
@@ -29,22 +32,20 @@ A research showcase, engineering diary, and live application platform exploring 
 
 > Claimed **1st Place** at the prestigious **Google Gemini 3 Seoul Hackathon 2026**, standing out among **111 finalist projects** and over **1,500 highly competitive applicants**.
 
-<br/>
-
 <div align="center">
   <a href="https://youtu.be/hzUlLTtfd7M?si=LCs8NFTN9zpZ4bCm" target="_blank">
-    <img src="https://img.youtube.com/vi/hzUlLTtfd7M/maxresdefault.jpg" width="85%" alt="Google Gemini 3 Seoul Hackathon 1st Place - GeminiSpace Demo Video" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+    <img src="https://img.youtube.com/vi/hzUlLTtfd7M/maxresdefault.jpg" width="85%" alt="Google Gemini 3 Seoul Hackathon 1st Place - GeminiSpace Demo Video" style="border-radius: 12px;" />
   </a>
   <p><i>▶️ Click to watch: GeminiSpace Demo Video (Google Gemini 3 Seoul Hackathon 1st Place)</i></p>
 </div>
 
-**About GeminiSpace**:
-We developed **GeminiSpace**, a Vision-Language-Action (VLA) navigation system that turns standard 360° indoor room photos into an **interactive indoor semantic map**. Simply capture your space and query it naturally, acting as a smart GPS for any indoor environment. Sub-second Gemini spatial reasoning, 360° Visual SLAM loop closure, and photorealistic 2D orthographic rendering.
+**About GeminiSpace**:  
+We developed **GeminiSpace**, a Vision-Language-Action (VLA) navigation system that turns standard 360° indoor room photos into an **interactive indoor semantic map**. Simply capture your space and query it naturally, acting as a smart GPS for any indoor environment.
 
 <div align="center">
 
 [![Live Web App](https://img.shields.io/badge/Live_App-geminispace.mincasurong.com-00C853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://geminispace.mincasurong.com/)
-[![Google Blog](https://img.shields.io/badge/Google_Blog-Read_Story-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://blog.google/intl/ko-kr/company-news/inside-google/gemini-seoul-hackathon-first/)
+[![Google Blog](https://img.shields.io/badge/Google_Official_Blog-Read_Interview-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://blog.google/intl/ko-kr/company-news/inside-google/gemini-seoul-hackathon-first/)
 [![Winners Gallery](https://img.shields.io/badge/Cerebral_Valley-Winners_Gallery-FF6B6B?style=for-the-badge&logo=star&logoColor=white)](https://cerebralvalley.ai/e/gemini-3-seoul-hackathon/hackathon/gallery?project=27)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-GeminiSeoulHackathon2026-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mincasurong/GeminiSeoulHackathon2026)
 
@@ -52,145 +53,115 @@ We developed **GeminiSpace**, a Vision-Language-Action (VLA) navigation system t
 
 ---
 
-## 📱 Live Deployed Apps & Tools (100% Free Access)
+## 📝 Featured Technical Research Blogs (with 40s Video & TL;DR)
 
-Production applications deployed and maintained on **Google Cloud Run** and **Google Play**:
+Explore all visual TL;DRs and 40-second `gemini-omni-1.1-flash` video syntheses at **[mincasurong.github.io/blog](https://mincasurong.github.io/blog/)**:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://geminispace.mincasurong.com/" target="_blank">
-        <img src="https://img.youtube.com/vi/hzUlLTtfd7M/maxresdefault.jpg" width="100%" alt="GeminiSpace Spatial AI" style="border-radius: 8px;" />
-      </a>
-      <h3>🌐 <a href="https://geminispace.mincasurong.com/">GeminiSpace: Indoor Spatial AI</a></h3>
-      <p><b>Web Application • Google Cloud Run • 1st Place Winner</b></p>
-      <p>Transforms 360° multi-view room photos into an interactive indoor spatial map with sub-second Gemini spatial reasoning and Visual SLAM loop closure.</p>
-      <br/>
-      <a href="https://geminispace.mincasurong.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Web_App-Launch_GeminiSpace-00C853?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Launch GeminiSpace" />
+    <td width="44%" valign="middle">
+      <a href="https://mincasurong.github.io/blog/lazy-dash/">
+        <img src="https://mincasurong.github.io/screenshots/blog5-lazydash-thumb-nanobanana.png" width="100%" alt="M9G-TR-2026-05: UIUC Lazy-DaSH (IEEE T-RO) x IsaacSim_Gemini" style="border-radius: 8px;" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://opic.mincasurong.com/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/18ba78a7-32ea-4690-8ea4-971d860b58f8" width="100%" alt="OPIc AI Master Coach" style="border-radius: 8px;" />
-      </a>
-      <h3>🎙️ <a href="https://opic.mincasurong.com/">OPIc AI Master Coach</a></h3>
-      <p><b>Web Application • Google Cloud Run • Gemini & Speech AI</b></p>
-      <p>Real-time conversational AI voice sparring trainer for test takers targeting Advanced Low (AL). Features native roleplay sparring, instant fluency scoring, and pronunciation feedback.</p>
-      <br/>
-      <a href="https://opic.mincasurong.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Web_App-Launch_OPIc_Coach-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Launch OPIc Coach" />
-      </a>
+    <td width="56%" valign="middle">
+      <p><code>M9G-TR-2026-05</code> • <b>IEEE T-RO (UIUC) • 16 Arms / 60+ Obj • 100× Faster</b></p>
+      <h3><a href="https://mincasurong.github.io/blog/lazy-dash/">UIUC Lazy-DaSH (IEEE T-RO) × IsaacSim_Gemini: Multi-Model VLA Hypergraph Roadmap</a></h3>
+      <p>Summarizing Seongwon "Scott" Lee et al.'s Lazy-DaSH (UIUC Parasol Lab, arXiv:2504.05552) and mapping its 4-layer lazy hypergraph (H_T → H_M) &amp; branch-scoped constraint feedback onto <b>Gemini 4 Argon</b>, <b>Gemini Robotics-ER 2</b>, and <b>Gemini 3.5 Flash-Lite</b> with 7 continuous KPIs.</p>
+      <p><a href="https://mincasurong.github.io/blog/lazy-dash/"><b>Read Lazy-DaSH Blog &amp; Watch 40s Video ↗</b></a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://jplt.mincasurong.com/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/76a5cd9d-ef41-4728-a6f0-5e3fa4d480d0" width="100%" alt="JLPT N4 Mock Exam & Drill Master" style="border-radius: 8px;" />
-      </a>
-      <h3>🇯🇵 <a href="https://jplt.mincasurong.com/">JLPT N4 Mock Exam & Drill Master</a></h3>
-      <p><b>Web Application • Google Cloud Run • Gemini 1:1 Tutor</b></p>
-      <p>Full-section Japanese proficiency exam drill simulator. Gemini AI analyzes individual weak spots across vocabulary, grammar, and reading in real time with focused drill exercises.</p>
-      <br/>
-      <a href="https://jplt.mincasurong.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Web_App-Launch_JLPT_Drill-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Launch JLPT Drill" />
+    <td width="44%" valign="middle">
+      <a href="https://mincasurong.github.io/blog/sdl-survey/">
+        <img src="https://mincasurong.github.io/screenshots/blog4-sdl-thumb-nanobanana.png" width="100%" alt="M9G-TR-2026-04: SOTA Survey on Multi-Robot Assembly, Deformables & SDLs" style="border-radius: 8px;" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://patent.mincasurong.com/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/1907981a-03fd-43e6-a515-b81bf7da22a8" width="100%" alt="KIPRIS Patent Intelligence Dual Hub" style="border-radius: 8px;" />
-      </a>
-      <h3>🔎 <a href="https://patent.mincasurong.com/">KIPRIS Patent Intelligence Dual Hub</a></h3>
-      <p><b>Web Application • Google Cloud Run • Enterprise IP RAG</b></p>
-      <p>Dual-engine patent intelligence platform integrating Korean KIPRIS API, rule-based claim verification, and interactive React Flow citation knowledge graphs.</p>
-      <br/>
-      <a href="https://patent.mincasurong.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Web_App-Launch_Patent_Hub-FBBC05?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Launch Patent Hub" />
-      </a>
+    <td width="56%" valign="middle">
+      <p><code>M9G-TR-2026-04</code> • <b>14 SOTA Systems • Assembly, Deformables &amp; SDLs</b></p>
+      <h3><a href="https://mincasurong.github.io/blog/sdl-survey/">SOTA Survey (2025–2026): Agentic Multi-Robot Manipulation in NVIDIA Isaac Sim — Assembly, Deformables &amp; Self-Driving Labs</a></h3>
+      <p>4-tier neuro-symbolic + GPU physics synthesis across MATTERIX, APEX-MR, RoboFactory, DexGarmentLab, ORGANA, and Project STAMP (v1.0.0-stamp).</p>
+      <p><a href="https://mincasurong.github.io/blog/sdl-survey/"><b>Read SDL Survey &amp; Watch 40s Video ↗</b></a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://play.google.com/store/apps/details?id=com.studio.kumakanji&hl" target="_blank">
-        <img src="https://img.youtube.com/vi/WYOJY8WIwBY/maxresdefault.jpg" width="100%" alt="UrKuma Hanja App Demo" style="border-radius: 8px;" />
-      </a>
-      <h3>🐻 <a href="https://play.google.com/store/apps/details?id=com.studio.kumakanji&hl">UrKuma (유어쿠마): Hanja Learning Quiz</a></h3>
-      <p><b>Android Mobile App • Google Play Store</b></p>
-      <p>An interactive quiz app featuring UrKuma the bear guide to master Hanja (Chinese characters) and Japanese vocabulary in 3 minutes a day.</p>
-      <br/>
-      <a href="https://play.google.com/store/apps/details?id=com.studio.kumakanji&hl" target="_blank">
-        <img src="https://img.shields.io/badge/Google_Play-Get_UrKuma_on_Android-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download UrKuma on Google Play" />
+    <td width="44%" valign="middle">
+      <a href="https://mincasurong.github.io/blog/stamp/">
+        <img src="https://mincasurong.github.io/screenshots/blog3-stamp-thumb-nanobanana.png" width="100%" alt="M9G-TR-2026-03: Project STAMP Deterministic Safety Gate" style="border-radius: 8px;" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <div align="center" style="padding: 36px 16px;">
-        <br/>
-        <h3>🌐 Explore More Tools</h3>
-        <p>All projects and live web applications are continuously updated and documented in public.</p>
-        <br/>
-        <a href="https://www.mincasurong.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-mincasurong.com-d4af37?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit mincasurong.com" />
-        </a>
-      </div>
+    <td width="56%" valign="middle">
+      <p><code>M9G-TR-2026-03</code> • <b>100% Fault Shield (610/610) • 1,000 Episodes</b></p>
+      <h3><a href="https://mincasurong.github.io/blog/stamp/">Project STAMP: 4-Layer Deterministic Safety Gate &amp; Write-Back for Multi-Arm VLA</a></h3>
+      <p>4-stage closed-loop Spatial, Task &amp; Motion Planning (Plan → Gate → Execute → Write-Back) intercepting 610/610 kinematic, AABB collision, torque, and zone-lock faults in Isaac Sim 6.0 &amp; ROS 2 Jazzy.</p>
+      <p><a href="https://mincasurong.github.io/blog/stamp/"><b>Read STAMP Blog &amp; Watch 40s Video ↗</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="44%" valign="middle">
+      <a href="https://mincasurong.github.io/blog/m9g-agent/">
+        <img src="https://mincasurong.github.io/screenshots/blog2-agent-thumb-nanobanana.png" width="100%" alt="M9G-TR-2026-02: m9g-agent-corps to m9g-mcp" style="border-radius: 8px;" />
+      </a>
+    </td>
+    <td width="56%" valign="middle">
+      <p><code>M9G-TR-2026-02</code> • <b>28 Modules / 169 Tests • Pivot to m9g-mcp</b></p>
+      <h3><a href="https://mincasurong.github.io/blog/m9g-agent/">Why Our 28-Module Coding Harness Failed vs. OmO, OpenCode &amp; Claude Code (→ m9g-mcp)</a></h3>
+      <p>Source-level post-mortem of engineering a 28-module coding harness, its 6 standalone failure modes, and extracting its 7 deterministic tools into the <code>m9g-mcp</code> server.</p>
+      <p><a href="https://mincasurong.github.io/blog/m9g-agent/"><b>Read Agent Blog &amp; Watch 40s Video ↗</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="44%" valign="middle">
+      <a href="https://mincasurong.github.io/blog/VLA/">
+        <img src="https://mincasurong.github.io/screenshots/blog1-vla-thumb-nanobanana.png" width="100%" alt="M9G-TR-2026-01: Symbolic 3D /tf Grounding & Pipelined VLA" style="border-radius: 8px;" />
+      </a>
+    </td>
+    <td width="56%" valign="middle">
+      <p><code>M9G-TR-2026-01</code> • <b>3-Arm FR3 Tower • -76.6% API Cost ($0.01972)</b></p>
+      <h3><a href="https://mincasurong.github.io/blog/VLA/">Symbolic 3D /tf Grounding &amp; 10-Turn Pipelined VLA: ER-2 vs. Gemini 4 Argon</a></h3>
+      <p>3-Stage hardware-in-the-loop benchmark in Isaac Sim 6.0 &amp; ROS 2 Jazzy achieving a 10-turn pipelined schedule with 0 RGB tokens and -76.6% API cost ($0.01972).</p>
+      <p><a href="https://mincasurong.github.io/blog/VLA/"><b>Read VLA Blog &amp; Watch Side-by-Side Video ↗</b></a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎬 Build with Gemini Diaries
+## 🤖 Gemini × Robotic Arm Series (Isaac Sim 6.0 & ROS 2 Jazzy)
 
-Documenting our builder journey in spatial intelligence, robotics, agent-driven engineering, and deployed applications using **Google AI Studio**, **Antigravity**, and **Gemini**.
-
-### 🤖 Robotics, VLA & Digital Twins
+Multi-Robot VLA Manipulation, React Flow Digital Twins & Hardware-in-the-Loop Benchmarks (`mincasurong/IsaacSim_GeminiRobotics`).
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.youtube.com/watch?v=PPZ4vgVZlyA" target="_blank">
+        <img src="https://img.youtube.com/vi/PPZ4vgVZlyA/maxresdefault.jpg" width="100%" alt="Gemini Robotics ER-2 vs. Gemini 4 Argon Benchmark" style="border-radius: 8px;" />
+      </a>
+      <h4><a href="https://www.youtube.com/watch?v=PPZ4vgVZlyA">Gemini Robotics ER-2 vs. Gemini 4 Argon: Multi-Robot Task Planner Benchmark (Isaac Sim 6.0 &amp; ROS 2)</a></h4>
+      <p>Side-by-side 3-arm 9-block tower benchmark in Isaac Sim 6.0: software-pipelined 10-turn scheduling and hybrid Gemini 4 Argon + Flash-Lite cutting API cost by 76.6% ($0.01972) with 0 RGB tokens.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.youtube.com/watch?v=q-D9H9anNl8" target="_blank">
+        <img src="https://img.youtube.com/vi/q-D9H9anNl8/hqdefault.jpg" width="100%" alt="EP 12. Multi Robot Collaboration" style="border-radius: 8px;" />
+      </a>
+      <h4><a href="https://www.youtube.com/watch?v=q-D9H9anNl8">EP 12. Multi Robot Collaboration | Gemini Robotics ER2 &amp; NVIDIA IsaacSim &amp; ROS2</a></h4>
+      <p>Three FR3 robotic arms cooperatively constructing geometric formations in Isaac Sim with dual zero-token React Flow DAG and Gemini Robotics-ER 2 VLA execution.</p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://www.youtube.com/watch?v=stxaWN7Ct8Y" target="_blank">
         <img src="https://img.youtube.com/vi/stxaWN7Ct8Y/maxresdefault.jpg" width="100%" alt="EP 11. FR3 Robots Cooperating with Gemini Robotics-ER2" style="border-radius: 8px;" />
       </a>
-      <h4><a href="https://www.youtube.com/watch?v=stxaWN7Ct8Y">EP 11. FR3 Robots Cooperating with Gemini Robotics-ER2 & Isaac Sim | React Flow Digital Twin</a></h4>
+      <h4><a href="https://www.youtube.com/watch?v=stxaWN7Ct8Y">EP 11. FR3 Robots Cooperating with Gemini Robotics-ER2 &amp; Isaac Sim | React Flow Digital Twin</a></h4>
       <p>Cooperative FR3 robotic arms planning and assembling in NVIDIA Isaac Sim via Gemini multi-agent reasoning and React Flow digital twin.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://www.youtube.com/watch?v=MzAGXiZmrdY" target="_blank">
         <img src="https://img.youtube.com/vi/MzAGXiZmrdY/maxresdefault.jpg" width="100%" alt="EP 10. Natural Language Input - Isaac Sim, ROS 2, Gemini" style="border-radius: 8px;" />
       </a>
-      <h4><a href="https://www.youtube.com/watch?v=MzAGXiZmrdY">EP 10. Natural Language to Isaac Sim, ROS 2, & Gemini Robotics-ER 2</a></h4>
+      <h4><a href="https://www.youtube.com/watch?v=MzAGXiZmrdY">EP 10. Natural Language to Isaac Sim, ROS 2, &amp; Gemini Robotics-ER 2</a></h4>
       <p>End-to-end VLA multi-robot control framework integrating Gemini Robotics-ER 2, Isaac Sim, ROS 2, and real-time Web monitoring GUI.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://youtu.be/5ydQRDwkg34?si=z_TNSfY_MFlpukyS" target="_blank">
-        <img src="https://img.youtube.com/vi/5ydQRDwkg34/maxresdefault.jpg" width="100%" alt="EP 7. Random Target Multi-Robots on NVIDIA IsaacSim" style="border-radius: 8px;" />
-      </a>
-      <h4><a href="https://youtu.be/5ydQRDwkg34?si=z_TNSfY_MFlpukyS">EP 7. Random Target Multi-Robots on IsaacSim w/ Antigravity & ROS2</a></h4>
-      <p>Dynamic multi-robot collaboration on NVIDIA IsaacSim via ROS2, orchestrated by Antigravity 2.0 and Gemini.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://www.youtube.com/watch?v=mWDwqBfzZ6s" target="_blank">
-        <img src="https://img.youtube.com/vi/mWDwqBfzZ6s/maxresdefault.jpg" width="100%" alt="EP 0. GeminiSpace v2.0" style="border-radius: 8px;" />
-      </a>
-      <h4><a href="https://www.youtube.com/watch?v=mWDwqBfzZ6s">EP 0. GeminiSpace v2.0: Eliminating AI Map Hallucinations</a></h4>
-      <p>Sub-second Gemini spatial reasoning, 360° Visual SLAM loop closure, and photorealistic 2D orthographic rendering.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://youtu.be/k9dRqfSosBs" target="_blank">
-        <img src="https://img.youtube.com/vi/k9dRqfSosBs/maxresdefault.jpg" width="100%" alt="EP 1. TidyUpAI" style="border-radius: 8px;" />
-      </a>
-      <h4><a href="https://youtu.be/k9dRqfSosBs">EP 1. TidyUpAI</a></h4>
-      <p>Autonomous workspace organizer that declutters, tags, and structures files with zero manual effort.</p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center" style="padding: 24px;">
-        <h3>Explore More Research</h3>
-        <p>Follow along as we push the frontiers of Embodied AI and Physical Robotics.</p>
-        <a href="https://www.mincasurong.com/"><b>Explore mincasurong.com ↗</b></a>
-      </div>
     </td>
   </tr>
 </table>
@@ -199,19 +170,18 @@ Documenting our builder journey in spatial intelligence, robotics, agent-driven 
 
 ## 📚 Publications & Research Archive
 
-### 📄 Peer-Reviewed Scientific Publications
+Full list of **21 Peer-Reviewed Publications** and **14+ US/KR Patents** is available at **[mincasurong.github.io/archive](https://mincasurong.github.io/archive/)** and **[mincasurong.github.io/vcard](https://mincasurong.github.io/vcard/)**.
 
-| Year | Venue | Paper Title | IEEE Xplore / MDPI Link |
+| Year | Venue | Paper Title | Link |
 | :---: | :---: | :--- | :---: |
-| **2025** | **IEEE ICRA** | **OPPA**: Online Planner's Parameter Adaptation for Enhanced Mobile Robot Navigation | [DOI: 11128768](https://ieeexplore.ieee.org/document/11128768) |
-| **2020** | **IEEE TNSRE** | **AI Therapist** realizing Expert Verbal Cues for Effective Robot-Assisted Gait Training | [DOI: 9260225](https://ieeexplore.ieee.org/document/9260225) |
-| **2019** | **IEEE TNSRE** | Research on Terrain Identification of the Smart Prosthetic Ankle by Fuzzy Logic | [DOI: 8792083](https://ieeexplore.ieee.org/document/8792083/) |
-| **2019** | **Applied Sciences** | Precise flowrate control of fluid gear pump in automated painting system using a repetitive controller | [MDPI: 3413](https://www.mdpi.com/2076-3417/9/16/3413) |
-| **2017** | **ICORR / Rehabweek** | A research on the postural stability of a person wearing the lower limb exoskeletal robot by the HAT model | [DOI: 8009275](https://ieeexplore.ieee.org/document/8009275) |
+| **2026** | **IEEE/RSJ IROS** | **SPLiT**: Spatially Generalizable Phase-Partitioned Motion Generation for Adaptive Liquid Transfer (H. Kim, S. Jeon, **M. Chang**, H. Lee, J. Park) | [Google Scholar ↗](https://scholar.google.com/citations?hl=en&user=b0gKbzdNH68C&view_op=list_works&sortby=pubdate) |
+| **2025** | **IEEE ICRA** | **OPPA**: Online Planner's Parameter Adaptation for Enhanced Mobile Robot Navigation | [IEEE Xplore ↗](https://ieeexplore.ieee.org/document/11128768) |
+| **2020** | **IEEE TNSRE** | **AI Therapist** realizing Expert Verbal Cues for Effective Robot-Assisted Gait Training | [IEEE Xplore ↗](https://ieeexplore.ieee.org/document/9260225) |
+| **2019** | **IEEE TNSRE** | Research on Terrain Identification of the Smart Prosthetic Ankle by Fuzzy Logic | [IEEE Xplore ↗](https://ieeexplore.ieee.org/document/8792083/) |
+| **2019** | **Applied Sciences** | Precise flowrate control of fluid gear pump in automated painting system using a repetitive controller | [MDPI ↗](https://www.mdpi.com/2076-3417/9/16/3413) |
+| **2017** | **ICORR / Rehabweek** | A research on the postural stability of a person wearing the lower limb exoskeletal robot by the HAT model | [IEEE Xplore ↗](https://ieeexplore.ieee.org/document/8009275) |
 
 <br/>
-
-### 🎥 Research Video Archive
 
 <details open>
 <summary><b>🦿 Virtual Reality (VR) + Wearable Robots for Rehabilitation (Click to expand/collapse)</b></summary>
@@ -246,7 +216,7 @@ Documenting our builder journey in spatial intelligence, robotics, agent-driven 
 </details>
 
 <details open>
-<summary><b>🚙 Mobile Robots, Navigation & Manipulators (Click to expand/collapse)</b></summary>
+<summary><b>🚙 Mobile Robots, Navigation &amp; Manipulators (Click to expand/collapse)</b></summary>
 <br/>
 
 <table>
@@ -262,7 +232,7 @@ Documenting our builder journey in spatial intelligence, robotics, agent-driven 
       <a href="https://www.youtube.com/watch?v=IsrvJgT0ntI" target="_blank">
         <img src="https://img.youtube.com/vi/IsrvJgT0ntI/maxresdefault.jpg" width="100%" alt="ROS 2 & MoveIt 2" style="border-radius: 6px;" />
       </a>
-      <br/><b>ROS 2 & MoveIt 2 Motion Planning</b><br/>
+      <br/><b>ROS 2 &amp; MoveIt 2 Motion Planning</b><br/>
       <small>Collision-free robotic arm trajectory planning running natively on Windows 10.</small>
     </td>
     <td width="33%" align="center">
@@ -279,37 +249,60 @@ Documenting our builder journey in spatial intelligence, robotics, agent-driven 
 
 ---
 
+## 📱 Live Deployed Apps & Tools (100% Free Access)
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.studio.kumakanji&hl" target="_blank">
+        <img src="https://img.youtube.com/vi/WYOJY8WIwBY/hqdefault.jpg" width="100%" alt="UrKuma: Korean-Japanese Quiz & learning" style="border-radius: 8px;" />
+      </a>
+      <h4>🐻 <a href="https://play.google.com/store/apps/details?id=com.studio.kumakanji&hl">UrKuma: Hanja &amp; Japanese Quiz</a></h4>
+      <p>Master Chinese characters and Japanese vocabulary in 3 minutes a day on Google Play.</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://opic.mincasurong.com/" target="_blank">
+        <img src="https://mincasurong.github.io/screenshots/opic.png" width="100%" alt="OPIc AI Master Coach" style="border-radius: 8px;" />
+      </a>
+      <h4>🎙️ <a href="https://opic.mincasurong.com/">OPIc AI Master Coach</a></h4>
+      <p>Real-time conversational AI voice sparring trainer for OPIc Advanced Low (AL).</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://jplt.mincasurong.com/" target="_blank">
+        <img src="https://mincasurong.github.io/screenshots/jplt.png" width="100%" alt="JLPT N4 Mock Exam & Drill Master" style="border-radius: 8px;" />
+      </a>
+      <h4>🇯🇵 <a href="https://jplt.mincasurong.com/">JLPT N4 Mock Exam &amp; Drill</a></h4>
+      <p>Full-section Japanese proficiency exam simulator with 1:1 Gemini AI weak-spot tutoring.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Core Tech Stack & Frameworks
 
 <div align="center">
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Robotics & Simulation** | `NVIDIA Isaac Sim` `ROS 2` `MoveIt 2` `MuJoCo` `robomimic` `Franka Emika FR3` `Jetson Nano` |
-| **AI & Spatial Intelligence** | `Google Gemini 3.8 / 3.7 Flash` `Gemini Robotics-ER 2` `Visual SLAM` `VLA Models` `PyTorch` |
-| **Full-Stack & Digital Twins** | `React 19` `TypeScript 5.8` `React Flow` `Vite 6` `Tailwind CSS v4` `Express` `Motion` |
-| **Cloud & Agentic DevOps** | `Google Cloud Run` `Google AI Studio` `Antigravity 2.0` `Docker` `GitHub Actions` `Firebase` |
+| **Robotics & Simulation** | `NVIDIA Isaac Sim 6.0` `ROS 2 Jazzy` `MoveIt 2` `MuJoCo 3.x` `Franka Emika FR3` `Jetson Nano` |
+| **AI & Spatial Intelligence** | `Gemini 4 Argon` `Gemini Robotics-ER 2` `Gemini 3.8 / 3.5 Flash-Lite` `Visual SLAM` `VLA & TAMP` |
+| **Full-Stack & Digital Twins** | `React 19` `TypeScript 5.8` `React Flow v12` `Vite 6` `Tailwind CSS v4` `FastDDS Unicast` |
+| **Cloud & Agentic DevOps** | `Google Cloud Run` `Model Context Protocol (MCP)` `Docker` `GitHub Actions` `PyTorch` |
 
 </div>
 
 ---
 
-## 👥 Who We Are
-
-> **A team of a human and AI agents**
-
-Our foundation is rooted in a profound passion for **robotics**, complemented by extensive expertise in **human-robot interaction (HRI)**, advanced control theory, and sophisticated machine learning techniques. Our professional experience encompasses a broad spectrum, ranging from **assistive and rehabilitation robotics** to the development of **agentic systems** for industrial automation.
-
-```text
-The M9G Formula:
-M9G represents our journey and dual alignment:
-  m incasuron g  (Human Engineering)
-  ×
-  m insu chan g  (Agent-enabled Intelligence)
-```
-
----
-
 <div align="center">
-  <sub>© 2026 M9G • Built in Public • <a href="https://www.mincasurong.com/">mincasurong.com</a></sub>
+
+**The M9G Formula**: `m incasuron g` (Human Engineering) × `m insu chan g` (Agent-enabled Intelligence)
+
+[![Portal](https://img.shields.io/badge/Portal-mincasurong.github.io-1a73e8?style=flat-square)](https://mincasurong.github.io/) •
+[![CV](https://img.shields.io/badge/CV-mincasurong.github.io%2Fvcard-fbbf24?style=flat-square&logoColor=black)](https://mincasurong.github.io/vcard/) •
+[![Blog](https://img.shields.io/badge/Blog-mincasurong.github.io%2Fblog-34A853?style=flat-square)](https://mincasurong.github.io/blog/) •
+[![Archive](https://img.shields.io/badge/Archive-mincasurong.github.io%2Farchive-EA4335?style=flat-square)](https://mincasurong.github.io/archive/)
+
+<sub>© 2026 M9G (Minsu Chang, Ph.D.) • Built in Public • <a href="https://mincasurong.github.io/">mincasurong.github.io</a></sub>
+
 </div>
